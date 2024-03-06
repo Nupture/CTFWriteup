@@ -18,7 +18,7 @@ flag: RWSC{Bl4cky_S1c4r1o}
 The question mention about how the Cali Cartel fail, so after some search,
 we lock on something who betrayal the Cartel, Jorge Salcedo,
 
-![[Pasted image 20240306205718.png]]
+![news](Pasted image 20240306205718.png)
 
 here are the fun part coming up, search the name, apply the google-fu and that's it![[Pasted image 20240306205521.png]]
 
