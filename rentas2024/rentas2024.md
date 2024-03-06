@@ -6,7 +6,7 @@ No clue at all before the hint, so let's look at the hint, we able to know:
 - uniten IG
 - Dig inside the IG, metadata
 
-We tried to look at the comment first, there are no people name Blacky or Nelson, but when we look at the "following"/follower, ![[Pasted image 20240306204109.png]]
+We tried to look at the comment first, there are no people name Blacky or Nelson, but when we look at the "following"/follower, !Pasted image 20240306204109.png
 
 We able to find someone call exactly what we trying to find, look inside the profile, download the image and search for metadata but nothing found,![[Pasted image 20240306204247.png]]
 
